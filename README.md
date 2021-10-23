@@ -1,3 +1,1 @@
-![alexpreynolds's github stats](https://github-readme-stats.vercel.app/api?username=alexpreynolds&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexpreynolds&theme=tokyonight&count_private=true)
+I work in a genomics lab to help simplify and enhance analysis of, presentation of, and interaction with complex and large-scale scientific data. The following repositories are tools and code snippets I've made or contributed to, along the way. Share and enjoy!
